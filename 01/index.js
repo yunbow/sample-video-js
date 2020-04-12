@@ -8,7 +8,6 @@
     }
 
     ready(() => {
-        let index = 0;
         let video = videojs('video1', {
             width: 640, // 幅
             height: 360, // 高さ
